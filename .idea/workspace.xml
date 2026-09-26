@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95a90a9f-5ffd-4ae9-b555-d7d27945e480" name="Changes" comment="Renaming python script from &quot;main&quot; to &quot;Project1_AidanDuran&quot;">
+    <list default="true" id="95a90a9f-5ffd-4ae9-b555-d7d27945e480" name="Changes" comment="Variable naming scheme changed to be shorter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project1_AidanDuran.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_AidanDuran.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Project1_AidanDuran.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,7 +78,7 @@
       <workItem from="1789424599411" duration="1280000" />
       <workItem from="1789499791416" duration="65000" />
       <workItem from="1789503358915" duration="311000" />
-      <workItem from="1790384423519" duration="588000" />
+      <workItem from="1790384423519" duration="1495000" />
     </task>
     <task id="LOCAL-00001" summary="Project 1 variable, print, f-string, and .title() method testing">
       <option name="closed" value="true" />
@@ -110,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790384511150</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Variable naming scheme changed to be shorter">
+      <option name="closed" value="true" />
+      <created>1790385304176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790385304176</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +129,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project 1 variable, print, f-string, and .title() method testing" />
     <MESSAGE value="Renaming python script from &quot;main&quot; to &quot;Project1_AidanDuran&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming python script from &quot;main&quot; to &quot;Project1_AidanDuran&quot;" />
+    <MESSAGE value="Variable naming scheme changed to be shorter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variable naming scheme changed to be shorter" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSI_Project1$main.coverage" NAME="main Coverage Results" MODIFIED="1789425388288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
